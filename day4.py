@@ -1,4 +1,4 @@
-import fileops as fops
+import readops as fops
 
 def parse_line(line):
     # init data structures

@@ -1,4 +1,4 @@
-import fileops as fops
+import readops as fops
 import string
 
 # --- PART 1 ---
